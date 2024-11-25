@@ -1,3 +1,2 @@
 print("hallo werld")
-git add .
-git add .
+print("Welkom in onze ijssalon")
